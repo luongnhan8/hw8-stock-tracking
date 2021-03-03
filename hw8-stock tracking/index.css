@@ -1,0 +1,36 @@
+h1 {
+  color: rgb(6, 163, 77);
+}
+
+li {
+  color: rgb(125, 145, 12);
+  font-size:      25px;
+  font-weight:    bold;
+}
+
+.myHeader {
+  text-align: center;
+  font-size:      30px;
+  font-weight:    bold;
+  color:  rgb(12, 16, 223);
+}
+
+.newFont {
+  text-align: center;
+  font-family: 'cursive';font-size: 22px;
+  font-size:      40px;
+  font-weight:    bold;
+  color:  rgb(240, 111, 6);
+}
+
+.center {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+#nav_bar ul li a.active-page
+{
+  background-color:rgb(248, 244, 9);
+}
